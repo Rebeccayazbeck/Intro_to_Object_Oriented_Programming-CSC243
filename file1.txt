@@ -1,0 +1,9 @@
+x = 5
+y == 10
+z = 7,3
+t = x + y
+g = z x y
+h : z / y
+print ( " x " )
+print ( v )
+
